@@ -11,4 +11,8 @@ Modules
 
 Compilation and Executon
 1. make
-2. ./compiler testcases/c1.txt code.asm    i.e. 'executable-name' 'testcase-name' 'output-file'
+2. ./compiler testcases/c1.txt code.asm       i.e. 'executable-name' 'testcase-name' 'output-file'
+
+Team Members
+1. Shivam Gupta (g66shivam)
+2. Pulkit Gupta (pulkitsja)
